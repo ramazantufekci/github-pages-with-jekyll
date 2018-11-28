@@ -5,7 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Google de arandığı zaman bu yazı çıkacaksa kesinlikle buraya birşeyler yazmalıyım.
 
 # social links
-twitter_username: your-twitter-handle
+twitter_username: your
 github_username:  ramazantufekci
 
 show_excerpts: true # set to false to remove excerpts on the homepage
