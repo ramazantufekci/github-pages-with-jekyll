@@ -1,3 +1,7 @@
-# Welcome to my blog
+# Nasıl oldu
 
-I'm glad you are here. I plan to talk about ...
+Aşkımız bir Temmuz sabahında başlamıştı.
+
+Gördüğüm anda içim kıpır kıpır oluyor takıntılı bir seri katil gibi sürekli eski görüntülerini aklımda öldürmek 
+
+ve yerine yenilerini koymak istiyordum.
